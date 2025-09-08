@@ -122,7 +122,7 @@ class BugBountyRecon:
 {Colors.RESET}
 {Colors.YELLOW}Advanced Bug Bounty Reconnaissance Tool v2.0{Colors.RESET}
 {Colors.GREEN}Created for Professional Security Researchers{Colors.RESET}
-{Colors.BLUE}Author: Advanced Recon Framework{Colors.RESET}
+{Colors.BLUE}Author: pin0ccs{Colors.RESET}
 """
         print(banner)
 
